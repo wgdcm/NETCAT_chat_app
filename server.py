@@ -27,7 +27,6 @@ try:
           if ex_event.is_set():
              conn.close()
              break
-#reference for Kill a Python Thread: https://blog.miguelgrinberg.com/post/how-to-kill-a-python-thread
  def signal_handler(signum, frame):
      sock.close()
      print("*Follow the instructions to exit program*")
