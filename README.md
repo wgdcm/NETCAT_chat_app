@@ -32,7 +32,7 @@ Use the showing port number to connect from client to server.
 
 ### Note
 *Port number change for every single session.<br>
-*Follow the instructions to exit program.
+*Follow the instructions to exit the program.
    1. Press 'Ctrl+C' on both client and server-side
    2. Press 'Enter' on both client and server-side
    3. Press 'Ctrl+Z' to exit
